@@ -145,4 +145,5 @@ label#label-name {
   float: left;
   font-size: 1.25em;
   margin: 4px 12px;
+  cursor: pointer;
 }
